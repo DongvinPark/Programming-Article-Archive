@@ -1,4 +1,4 @@
-# Java Stream API Exampler Archive
+# Java Stream API Example Archive
 
 <br><br/>
 - 자바 8 버전에서 최초로 도입된 스트림의 기본적인 사용 예시들을 하나의 클래스 안에 모아 놓은 프로그램 코드 입니다.
